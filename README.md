@@ -1,3 +1,3 @@
-# Advent of Code 2017
+# Advent of Code
 
 My own solutions for http://adventofcode.com
